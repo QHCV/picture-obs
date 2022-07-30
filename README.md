@@ -1,2 +1,2 @@
 # picture-obs
-Typora
+
