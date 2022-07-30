@@ -1,2 +1,2 @@
 # picture-obs
-markdown中的图片保存地
+markdown笔记中的图片
